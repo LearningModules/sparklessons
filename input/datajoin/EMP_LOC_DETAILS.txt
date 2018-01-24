@@ -1,0 +1,12 @@
+101,bangalore,karnataka,560043
+102,new delhi,delhi,110092
+103,chennai,tamil nadu,600024
+104,kochi,kerala,683401
+105,tiruvalla,kerala,689543
+106,madurai,tamil nadu,674883
+106,mumbai,maharastra,400090
+107,kochi,kerala,683401
+108,tiruvalla,kerala,689543
+109,mumbai,maharastra,400090
+110,new delhi,delhi,110092
+111,bangalore,karnataka,560043

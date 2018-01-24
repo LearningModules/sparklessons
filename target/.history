@@ -1,0 +1,5 @@
+run
+clean
+build
+clean
+run
